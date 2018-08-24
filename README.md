@@ -7,15 +7,15 @@ selected, done, undone, last step. Minimal react-component, no-dependencies.
 
 ### Installation and Usage
 
-` yarn add react_stepper`
+` yarn add react-ui-stepper`
 
 or
 
-` npm install react_stepper --save`
+` npm install react-ui-stepper --save`
 
 A stepper code example:
 
-` import Stepper from "react-stepper" `
+` import Stepper from "react-ui-stepper" `
 
 
 `<Stepper maxSteps={5} steps={10} selected={1} /> `
@@ -56,3 +56,5 @@ const CIRCLE_COLORS = {
 ```
 
 Feel free to fork, use and modify.
+
+License: MIT

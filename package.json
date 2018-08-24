@@ -1,11 +1,13 @@
 {
-  "name": "react_stepper",
-  "version": "1.0.0",
+  "name": "react-ui-stepper",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "A React stepper component",
   "keywords": [
     "react",
-    "stepper"
+    "stepper",
+    "progress bar",
+    "UI component"
   ],
   "main": "dist/index.bundle.js",
   "dependencies": {

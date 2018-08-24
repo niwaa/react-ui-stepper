@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Stepper from 'react_stepper'
+import Stepper from 'react-ui-stepper'
 
 const CIRCLE_COLORS = {
   DONE: {
